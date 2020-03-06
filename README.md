@@ -1,5 +1,6 @@
 # FlaskSentimentVADER
 A boilerplate Flask application for Sentiment Analysis using VADER.
+
 Terminal Commands to get started:
 > $ cd path/to/FlaskSentimentVADER
 >
